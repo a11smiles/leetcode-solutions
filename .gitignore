@@ -1,0 +1,6 @@
+# Generic
+.vscode/
+
+# csharp
+[Bb]in/
+[Oo]bj/
